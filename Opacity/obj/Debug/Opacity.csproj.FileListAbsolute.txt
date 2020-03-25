@@ -1,0 +1,10 @@
+c:\users\mrt_b\source\repos\Opacity\Opacity\bin\Debug\Opacity.exe.config
+c:\users\mrt_b\source\repos\Opacity\Opacity\bin\Debug\Opacity.exe
+c:\users\mrt_b\source\repos\Opacity\Opacity\bin\Debug\Opacity.pdb
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.Form1.resources
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.Properties.Resources.resources
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.exe
+c:\users\mrt_b\source\repos\Opacity\Opacity\obj\Debug\Opacity.pdb
